@@ -1,0 +1,19 @@
+{
+  "name": "p-destal",
+  "version": "0.0.0",
+  "description": "TBD",
+  "main": "p-destal.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/p-destal.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/p-destal/issues"
+  },
+  "homepage": "https://github.com/bahrus/p-destal#readme"
+}
